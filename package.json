@@ -1,7 +1,7 @@
 {
-  "name": "ExpressJS-ViewEngine",
+  "name": "ExpressJS-ContactApp",
   "version": "1.0.0",
-  "description": "",
+  "description": "App Contact dengan ExpressJS",
   "main": "app.js",
   "dependencies": {
     "connect-flash": "^0.1.1",
@@ -14,9 +14,10 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start" : "node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Muhammad Mayudin",
   "license": "ISC"
 }
